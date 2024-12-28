@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/D5603AQG8aaR-geGgjQ/profile-displayphoto-shrink_800_800/0/1691220746696?e=1704931200&v=beta&t=uV9YpaiAkH8QS4oSg5kW0r0gibve_w5nhgOn0s1swDA"  />
+  <img height="150" src="[https://media.licdn.com/dms/image/D5603AQG8aaR-geGgjQ/profile-displayphoto-shrink_800_800/0/1691220746696?e=1704931200&v=beta&t=uV9YpaiAkH8QS4oSg5kW0r0gibve_w5nhgOn0s1swDA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUv4efwDYARf5XR46l60ibliIEuSnj6oRFZA&s)"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Narendran N</h1>
@@ -8,7 +8,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=narendran-dev.narendran-dev&"  />
 </div>
 
-- 🔭 I’m currently working on [Growmax.io](https://growmax.io/)
+- 🔭 I’m currently working on [Microsoft](https://microsoft.com/)
 
 - 🌱 I’m currently learning **Javascript**
 
